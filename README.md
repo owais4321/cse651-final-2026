@@ -96,9 +96,3 @@ CUDA >= 11.8
 ## Results Summary
 
 Results are saved to `benchmark_results.json` after each run and printed as a comparison table at the end of the notebook.
-
----
-
-## Paper
-
-*Distributed Deep Learning at Scale: A Comparative Study of DDP, Horovod, and FSDP-Zero1*
