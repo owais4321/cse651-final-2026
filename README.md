@@ -88,7 +88,7 @@ torch >= 2.1
 torchvision >= 0.16
 python >= 3.10
 CUDA >= 11.8
-2× GPU (tested on NVIDIA T4 16GB)
+2× GPU (tested on Tesla T4 16GB)
 ```
 
 ---
